@@ -1,5 +1,5 @@
 # PCSE
-<<<<<<< HEAD
+
 Protocolos de Comunicaccion de Sistemas Embebidos
 
 Este proyecto es para la materia Protocolos de comunicion para Sistemas embedidos, que lo titule “Driver para sensor de Actitud de un Satelite”.
