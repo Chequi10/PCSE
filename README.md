@@ -1,2 +1,2 @@
 # PCSE
-Protocolos de Comunicaccion de Sistemas Embebidos
+Protocolos de Comunicacion de Sistemas Embebidos
