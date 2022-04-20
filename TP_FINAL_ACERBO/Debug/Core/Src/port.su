@@ -1,0 +1,4 @@
+../Core/Src/port.c:11:8:configuracion_i2c	16	static
+../Core/Src/port.c:61:8:read_i2c	32	static
+../Core/Src/port.c:89:8:write_i2c	32	static
+../Core/Src/port.c:114:8:write_i2c_b	32	static
